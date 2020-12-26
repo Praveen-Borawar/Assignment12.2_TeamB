@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-25T12:07:59 IST" name="Default suite" finished-at="2020-12-25T12:08:04 IST" duration-ms="5083">
+    <groups>
+    </groups>
+    <test started-at="2020-12-25T12:07:59 IST" name="Default test" finished-at="2020-12-25T12:08:04 IST" duration-ms="5083">
+      <class name="Test.getPostRequestTest">
+        <test-method is-config="true" signature="getReport()[pri:0, instance:Test.getPostRequestTest@75329a49]" started-at="2020-12-25T12:07:59 IST" name="getReport" finished-at="2020-12-25T12:07:59 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method signature="test1()[pri:0, instance:Test.getPostRequestTest@75329a49]" started-at="2020-12-25T12:07:59 IST" name="test1" finished-at="2020-12-25T12:08:03 IST" duration-ms="3423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:Test.getPostRequestTest@75329a49]" started-at="2020-12-25T12:08:03 IST" name="test2" finished-at="2020-12-25T12:08:03 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:Test.getPostRequestTest@75329a49]" started-at="2020-12-25T12:08:03 IST" name="test3" finished-at="2020-12-25T12:08:04 IST" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Test.getPostRequestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
